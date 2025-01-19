@@ -4,7 +4,8 @@ A scalable, serverless data pipeline that extracts and processes Spotify music d
 
 ## Architecture Overview
 
-![Architecture Diagram]
+![Architecture](https://github.com/user-attachments/assets/c541b891-2e97-4876-b380-2a4282003b6e)
+
 
 ### Core AWS Services
 
