@@ -58,21 +58,4 @@ spotipy==2.23.0
 numpy==1.24.3
 ```
 
-## Security Considerations
-
-- Implement encryption at rest and in transit
-- Use AWS KMS for key management
-- Follow principle of least privilege for IAM roles
-- Implement VPC for network isolation
-
-## Getting Started
-
-[Include setup instructions, configuration details, and examples]
-
-## Contributing
-
-[Include contribution guidelines]
-
-## License
-
-[Specify license information]
+Thanks for reading
